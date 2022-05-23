@@ -29,6 +29,9 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" alt="cypress" width="40" height="40"/> </a>
+  
+  
 </p>
 <h3 align="left">Devops and Testing:</h3>
 <p align="left">
