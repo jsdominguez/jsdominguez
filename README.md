@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsdominguez" alt="Jhosep Dominguez" /></a> </p>
 
 
-- 🌱 I’m currently learning **Cobol , Cypress , Appium and Katalon** 
+- 🌱 I’m currently learning **Cypress , Appium and Katalon** 
 
 - 💬 Ask me about **Developer scripts for automation test in mainframe and platform standart.**
 
